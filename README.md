@@ -1,9 +1,5 @@
 ## <div align="center">Olá, Sou Luciano Ribeiro</div>
- <div align="center">
-  <a href="https://github.com/lucianorbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianorbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianorbr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="GO-Python" height="30" width="30" src="https://img.icons8.com/color/50/000000/golang.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
